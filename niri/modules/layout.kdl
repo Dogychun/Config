@@ -1,0 +1,27 @@
+layout {
+  gaps 6 
+
+  default-column-width { proportion 0.5; }
+
+  focus-ring {
+    off
+  }
+
+  border {
+    on
+    width 2
+
+    active-color "#b8bb26"
+    inactive-color "#3c3836"
+    urgent-color "#fb4934"
+  }
+
+  shadow {
+    off 
+    softness 30
+    spread 5
+    color "#0007"
+  }
+}
+
+
